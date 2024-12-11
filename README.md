@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **theekshanathathsara.2001@gmail.com**
 
-- ⚡ Fun fact **Thikaa**
+- ⚡ Fun fact Call me as **Thikaa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
