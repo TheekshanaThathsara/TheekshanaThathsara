@@ -3,6 +3,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Undergraduate;Frontend+Developer;UI+UX+Designer;Always+learning+new+things"></a>
 </p>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theekshanathathsara&label=Profile%20views&color=0e75b6&style=flat" alt="theekshanathathsara" /> </p>
 
